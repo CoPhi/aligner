@@ -15,6 +15,7 @@
  * along with AlignmentPerseus.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+
 package eu.himeros.alignment.core;
 
 import java.util.Properties;
