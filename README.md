@@ -1,4 +1,3 @@
-aligner v5
-
+aligner
 
 Generic Aligner that aligns sequences of objects
