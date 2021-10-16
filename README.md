@@ -1,4 +1,4 @@
-rev. 0.2
+rev. 0.3
 aligner
 
 Generic Aligner that aligns sequences of objects
